@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@1,100&family=Montserrat+Alternates:wght@300&family=Unbounded:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@1,100&family=IBM+Plex+Mono:ital,wght@1,500&family=Montserrat+Alternates:wght@300&family=Poppins:wght@300&family=Roboto:ital,wght@0,100;1,500&family=Unbounded:wght@200;400&family=Ysabeau+Office:wght@300;600&display=swap');
+
+body {
+  background-color: #131722;
+  color: #fff;
+  font-family: 'Montserrat Alternates', sans-serif;
+
+}
+
+.secondFontColor {
+  color: #949cb0;
+}
+
+.brdr {
+  background-color: #a8a8a83d;
+  height: 2px;
+}
+
+.movie {
+  position: relative;
+}
+
+.vote {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 7px;
+  background-color: #24baef;
+}
+
+.logo {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: bolder;
+  font-size: x-large;
+}
+
+.point {
+  cursor: pointer;
+}
